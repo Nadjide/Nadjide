@@ -12,24 +12,8 @@ Je suis un développeur passionné par la programmation et l'apprentissage conti
 - 🌱 J'apprends actuellement **REACT NATIVE / TypeScript / Python / JavaScript**.
 - 📫 Comment me joindre: **nadjide.omar@outlook.fr**.
 
-## Mes compétences
-
-```[Langage de programmation]
-- [Nom du langage] - [Niveau de compétence, par exemple, débutant, intermédiaire, expert]
-
-```[Autres compétences]
-- [Nom de la compétence] - [Niveau de compétence, par exemple, débutant, intermédiaire, expert]
-
-## Mes projets préférés
-
-- **[Nom du projet](Lien du projet)** - [Brève description du projet]
-- **[Nom du projet](Lien du projet)** - [Brève description du projet]
-- **[Nom du projet](Lien du projet)** - [Brève description du projet]
-
-## Statistiques GitHub
-
 ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Nadjide&show_icons=true&theme=radical)
 
 ## 📫 Où me trouver
 
-- 📧 **[nadjide.omar@outlook.fr]**
+- 📧 **nadjide.omar@outlook.fr**
