@@ -11,6 +11,21 @@ Je suis un développeur passionné par la programmation et l'apprentissage conti
 - 🔭 Actuellement, je travaille sur **[AppLocation]([Lien du projet](https://github.com/Nadjide/appLocation))**.
 - 🌱 J'apprends actuellement **REACT NATIVE / TypeScript / Python / JavaScript**.
 - 📫 Comment me joindre: **nadjide.omar@outlook.fr**.
+- 
+## Mes compétences
+
+REACT NATIVE
+- REACT NATIVE - [Niveau de compétence:Debutant]
+
+TypeScript
+- TypeScript - [Niveau de compétence:intermédiaire]
+
+Python
+- Python - [Niveau de compétence:intermédiaire]
+
+JavaScript
+- JavaScript - [Niveau de compétence:intermédiaire]
+
 
 ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Nadjide&show_icons=true&theme=radical)
 
