@@ -14,6 +14,11 @@ Je suis un développeur passionné par la programmation et l'apprentissage conti
 
 ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Nadjide&show_icons=true&theme=radical)
 
+## Langages les plus utilisés
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadjide&layout=compact&theme=radical)
+
 ## 📫 Où me trouver
 
 - 📧 **nadjide.omar@outlook.fr**
+- 🌐 **[Portfolio]([https://www.example.com](https://app.netlify.com/sites/sunny-frangipane-391bd6/overview))**
