@@ -18,4 +18,4 @@ Je suis un développeur passionné par la programmation et l'apprentissage conti
 ## 📫 Où me trouver
 
 - 📧 **nadjide.omar@outlook.fr**
-- 🌐 **[Portfolio](https://app.netlify.com/sites/sunny-frangipane-391bd6/overview)**
+- 🌐 **[Portfolio](https://sunny-frangipane-391bd6.netlify.app/)**
