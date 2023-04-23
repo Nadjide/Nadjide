@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Nadjide !
+# 👋 Salut, c'est Nadjide !
 
 ![GitHub followers](https://img.shields.io/github/followers/Nadjide?label=Follow&style=social)
 
