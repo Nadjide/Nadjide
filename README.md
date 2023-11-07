@@ -9,7 +9,7 @@
 Je suis un développeur passionné par la programmation et l'apprentissage continu. J'adore travailler sur des projets stimulants et partager mes connaissances avec d'autres.
 
 - 🔭 Actuellement, je travaille sur **AppLocation(https://github.com/Nadjide/appLocation)**.
-- 🌱 J'apprends actuellement **REACT NATIVE / TypeScript / JavaScript / Python / Java / Kotlin**.
+- 🌱 J'apprends actuellement **REACT NATIVE / TypeScript / Node.JS / Python ( Pandas )
 - 📫 Comment me joindre: **nadjide.omar@outlook.fr**.
 
 
