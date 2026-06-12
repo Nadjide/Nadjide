@@ -1,88 +1,72 @@
-# 👋 Salut, moi c'est Nadjide Omar
+<h1 align="center">Nadjide Omar</h1>
 
-🎯 Développeur Full Stack orienté DevOps.
-Je conçois des applications web modernes, robustes et maintenables avec une approche produit, architecture et mise en production.
+<p align="center">
+  Développeur Full Stack orienté DevOps
+</p>
 
-Actuellement en fin de Mastère Expert Développement Full Stack, j'ai travaillé pendant 5 ans en alternance sur des applications internes utilisées en production : dashboards métier, API REST, outils qualité, automatisations data, intégration IA locale, Docker, CI/CD et support utilisateurs.
-
----
-
-## 🚀 Ce que je sais faire
-
-- Concevoir des applications Full Stack avec **Next.js, React, TypeScript, Node.js et FastAPI**
-- Créer des API REST, gérer l'authentification et connecter des bases SQL
-- Dockeriser des projets et mettre en place des workflows **CI/CD**
-- Travailler sur des dashboards métier, outils internes et applications temps réel
-- Documenter, maintenir et améliorer des applications utilisées par des vrais utilisateurs
-- Intégrer des briques IA locales avec **FastAPI, Ollama / Mistral**
+<p align="center">
+  <a href="https://portfolio-ts-nine.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/nadjide-omar-b55a01212/">LinkedIn</a> ·
+  <a href="https://github.com/Nadjide">GitHub</a>
+</p>
 
 ---
 
-## 🧰 Stack principale
+### Languages
 
-### Frontend
-React • Next.js • TypeScript • Tailwind CSS • Vue.js • React Native
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,php,html,css" />
+</p>
 
-### Backend
-Node.js • Express.js • FastAPI • Flask • REST API • Prisma
+### Technologies
 
-### Bases de données
-PostgreSQL • MySQL • MariaDB • SQLite • MongoDB • Supabase
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,fastapi,tailwind,prisma,supabase,mysql,postgres,sqlite,mongodb,docker,githubactions,linux,aws" />
+</p>
 
-### DevOps & Qualité
-Docker • GitHub Actions • CI/CD • Linux • Jest • Cypress • PyTest
+### Projects
 
-### Cloud & Architecture
-AWS en préparation • IAM • EC2 • S3 • RDS • architecture applicative • UML
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Stajio</h3>
+      <p>SaaS IA pour alternants : journal de bord, génération de rapport, préparation de soutenance et CV.</p>
+      <p><strong>Stack:</strong> Next.js, Supabase, LLM, Tailwind CSS</p>
+    </td>
+    <td width="50%">
+      <h3>Pokito</h3>
+      <p>Jeu multijoueur temps réel avec serveur autoritaire, Socket.IO, gestion des parties et restauration de session.</p>
+      <p><strong>Stack:</strong> Vue 3, Node.js, Express, Socket.IO, Supabase</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Smart Hire</h3>
+      <p>Application RH avec IA pour analyser des profils candidats et accompagner le processus de recrutement.</p>
+      <p><strong>Stack:</strong> React Native, TypeScript, FastAPI</p>
+    </td>
+    <td width="50%">
+      <h3>Portfolio</h3>
+      <p>Portfolio personnel présentant mon parcours, mes projets, mes compétences et mon expérience.</p>
+      <p><strong>Stack:</strong> React, TypeScript, Tailwind CSS, Framer Motion</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Exploree</h3>
+      <p>Application mobile orientée découverte, expérience utilisateur et parcours applicatif moderne.</p>
+      <p><strong>Stack:</strong> React Native, TypeScript</p>
+    </td>
+    <td width="50%">
+      <h3>Sonar</h3>
+      <p>Plateforme qualité interne avec évaluations, anomalies, sessions d’écoute et intégration IA locale.</p>
+      <p><strong>Stack:</strong> Next.js, FastAPI, MySQL, MariaDB, Docker</p>
+    </td>
+  </tr>
+</table>
 
----
+### Focus
 
-## ⭐ Projets principaux
-
-### Stajio — SaaS IA pour alternants
-Application permettant aux étudiants en alternance ou en stage de structurer leur journal de bord, suivre leurs deadlines et générer des contenus utiles pour leur rapport, leur soutenance ou leur CV.
-
-**Stack :** Next.js, TypeScript, Supabase, LLM, Tailwind CSS
-
----
-
-### Pokito — Jeu multijoueur temps réel
-Jeu temps réel avec séparation frontend/backend, serveur autoritaire, gestion des parties, joueurs, actions, historique et restauration de session.
-
-**Stack :** Vue 3, Node.js, Express, Socket.IO, Supabase, Docker
-
----
-
-### Smart Hire — Application RH avec IA
-Application de recrutement intelligente permettant d'analyser des profils candidats et d'accompagner le processus de sélection RH.
-
-**Stack :** React Native, TypeScript, FastAPI
-
----
-
-### Portfolio personnel
-Portfolio interactif présentant mon parcours, mes projets, mes compétences et mon expérience professionnelle.
-
-**Stack :** React, TypeScript, Tailwind CSS, Framer Motion
-
----
-
-## 🎯 Ce que je recherche
-
-Je cherche à évoluer sur des postes de :
-
-- Développeur Full Stack
-- Développeur Frontend / Backend
-- Développeur orienté DevOps
-- Ingénieur logiciel junior
-- Développeur cloud / applicatif
-
-Avec une préférence pour les environnements où je peux travailler sur l'architecture, la qualité, l'automatisation et la mise en production.
-
----
-
-## 📫 Me contacter
-
-- Portfolio : https://portfolio-ts-nine.vercel.app/
-- LinkedIn : https://www.linkedin.com/in/nadjide-omar-b55a01212/
-- GitHub : https://github.com/Nadjide
+```txt
+Full Stack Development · DevOps · CI/CD · Docker · API · Cloud · Architecture
+```
