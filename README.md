@@ -1,20 +1,33 @@
 <div align="center">
 
-# Nadjide Omar
+  <a href="mailto:nadjide.omar@outlook.fr">
+    <img src="https://img.shields.io/badge/STATUT-DISPONIBLE_POUR_OPPORTUNITÉS-10B981?style=flat-square&labelColor=0F172A" alt="Statut professionnel" />
+    <img src="https://img.shields.io/badge/LOCALISATION-NICE,_FRANCE-38BDF8?style=flat-square&labelColor=0F172A" alt="Localisation" />
+  </a>
 
-### Software Engineer
+  <h1>Nadjide Omar</h1>
 
-**Full Stack · DevOps · IA locale**
+  <a href="https://portfolio-ts-nine.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%C2%B7+Full+Stack+%C2%B7+DevOps+%C2%B7+IA+Locale;De+l'architecture+logicielle+%C3%A0+la+mise+en+production;5+ans+d'exp%C3%A9rience+%C2%B7+6+applications+m%C3%A9tier+en+production" alt="Spécialités" />
+  </a>
 
-Je conçois des applications utiles, de l’interface à la production.
+  <p>
+    <samp>Je conçois des applications utiles, sécurisées et reproductibles, de l’interface à la production.</samp>
+    <br />
+    <sub>Français natif · Anglais C1</sub>
+  </p>
 
-Nice, France · Français natif · Anglais C1
-
-<p>
-  <a href="https://portfolio-ts-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10171D?style=for-the-badge&logo=vercel&logoColor=white" alt="Voir mon portfolio" /></a>
-  <a href="https://www.linkedin.com/in/nadjide-omar-b55a01212/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Mon profil LinkedIn" /></a>
-  <a href="mailto:nadjide.omar@outlook.fr"><img src="https://img.shields.io/badge/Contact-BBD8FA?style=for-the-badge&logo=maildotru&logoColor=10171D" alt="Me contacter par email" /></a>
-</p>
+  <p>
+    <a href="https://portfolio-ts-nine.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Voir mon portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/nadjide-omar-b55a01212/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mon profil LinkedIn" />
+    </a>
+    <a href="mailto:nadjide.omar@outlook.fr">
+      <img src="https://img.shields.io/badge/Contact-38BDF8?style=for-the-badge&logo=minutemailer&logoColor=0F172A" alt="Me contacter par email" />
+    </a>
+  </p>
 
 </div>
 
@@ -22,50 +35,131 @@ Nice, France · Français natif · Anglais C1
 
 ## Du code à la production
 
-**Software Engineer à forte culture DevOps**, je développe des applications full stack et j’accompagne leur cycle de vie : conception, développement, tests, sécurisation et livraison.
+**Software Engineer à forte culture DevOps**, je développe des applications full stack et j’accompagne l'intégralité de leur cycle de vie : conception, développement, tests, sécurisation et livraison.
 
-Mon fil conducteur : comprendre le besoin, construire une solution lisible et la faire fonctionner en conditions réelles. Je m’intéresse aussi à l’IA auto-hébergée pour intégrer des fonctionnalités utiles tout en gardant la maîtrise des données.
+Mon fil conducteur : comprendre le besoin, construire une solution lisible et la faire fonctionner en conditions réelles. Je m’intéresse particulièrement à **l’IA auto-hébergée** pour intégrer des fonctionnalités métier utiles tout en conservant la maîtrise des données.
 
-| Expérience | Applications métier | Résultat concret |
-| :--- | :--- | :--- |
-| **5 ans en entreprise** | **6 applications en production** | **−83 %** sur le temps d’une évaluation qualité, de 30 à 5 minutes |
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <h3><samp>5 ans</samp></h3>
+      <sub><b>Expérience en entreprise</b><br />Conception et maintien de solutions métier</sub>
+    </td>
+    <td width="33%" align="center">
+      <h3><samp>6 apps</samp></h3>
+      <sub><b>Applications en production</b><br />Déployées et exploitées en conditions réelles</sub>
+    </td>
+    <td width="34%" align="center">
+      <h3><samp>−83 %</samp></h3>
+      <sub><b>Résultat concret</b><br />Temps d’évaluation qualité réduit de 30 à 5 min</sub>
+    </td>
+  </tr>
+</table>
 
-### Ce que je construis
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <samp>01 // FULL STACK</samp>
+      <h4>Produits de bout en bout</h4>
+      <sub>Interfaces web réactives, API performantes, modélisation des données et logique métier.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <samp>02 // SÉCURITÉ & QUALITÉ</samp>
+      <h4>Applications fiabilisées</h4>
+      <sub>Authentification centralisée (SSO), contrôle d’accès (RBAC) et tests automatisés.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <samp>03 // IA AUTO-HÉBERGÉE</samp>
+      <h4>Intégrations IA locales</h4>
+      <sub>Orchestration d'API Python avec Ollama et Mistral auto-hébergés pour la souveraineté des données.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <samp>04 // INFRASTRUCTURE & RUN</samp>
+      <h4>Livraison reproductible</h4>
+      <sub>Conteneurisation Docker, pipelines CI/CD GitHub Actions et exploitation sur serveurs Linux et Windows.</sub>
+    </td>
+  </tr>
+</table>
 
-- **Des produits full stack** : interfaces web, API, données et fonctionnalités métier.
-- **Des applications sécurisées** : authentification centralisée, contrôle d’accès et tests automatisés.
-- **Des intégrations IA locales** : API Python, Ollama et Mistral auto-hébergé.
-- **Une livraison reproductible** : Docker, CI/CD GitHub Actions et exploitation sur serveurs Linux et Windows.
+---
 
 ## Projets à découvrir
 
-### [Stajio](https://github.com/Nadjide/stajio)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Nadjide/stajio">Stajio</a></h3>
+      <p>
+        <sub>Journal d’alternance qui transforme l’expérience en rapports, préparations de soutenance et points CV. Application full stack avec authentification, exports PDF et IA locale.</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Ollama-0F172A?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+        <img src="https://img.shields.io/badge/Vitest-0F172A?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />
+        <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Pokito-ynov/api-pokito">Pokito</a></h3>
+      <p>
+        <sub>Jeu multijoueur en temps réel : architecture à serveur autoritaire, logique de partie côté API et persistance des données durables.</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Socket.IO-0F172A?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+        <img src="https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Nadjide/devops-playground">DevOps Playground</a></h3>
+      <p>
+        <sub>API volontairement simple pour illustrer une chaîne de livraison complète : tests automatisés, construction d’image Docker et contrôles de santé.</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Jest-0F172A?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
+        <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-0F172A?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://portfolio-ts-nine.vercel.app/">Portfolio</a></h3>
+      <p>
+        <sub>Présentation de mon parcours, projets interactifs et interface web axée sur la performance et les animations accessibles.</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0F172A?style=flat-square&logo=framer&logoColor=0055FF" alt="Framer Motion" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-Un journal d’alternance qui transforme l’expérience en rapports, préparations de soutenance et points CV. Une application full stack avec authentification, exports PDF et IA locale.
-
-**Next.js · React · TypeScript · SQLite · Ollama**  
-Tests Vitest et Playwright, conteneurisation Docker et déploiement Kubernetes.
-
-### [Pokito](https://github.com/Pokito-ynov/api-pokito)
-
-Un jeu multijoueur en temps réel : serveur autoritaire, logique de partie côté API et persistance des données durables.
-
-**Node.js · Socket.IO · Supabase · Docker**
-
-### [DevOps Playground](https://github.com/Nadjide/devops-playground)
-
-Une API volontairement simple pour illustrer une chaîne de livraison complète : tests automatisés, construction d’image Docker et contrôles de santé.
-
-**Node.js · Express · Jest · Docker · GitHub Actions**
-
-### Autres explorations
+<details>
+<summary><strong>Autres explorations (Mobile, IA & MVP)</strong></summary>
+<br />
 
 | Projet | Ce que j’y explore | Technologies |
 | :--- | :--- | :--- |
-| **Camarade** | MVP de plateforme étudiante, parcours utilisateur et logique full stack | Next.js · React Native · Supabase |
-| **Smart Hire** | Questionnaires IA et visualisation des évaluations pour le recrutement | React Native · TypeScript · FastAPI |
-| **Exploree** | Découverte de restaurants et d’activités à travers un flux de vidéos courtes | React Native · Expo · MongoDB |
-| **[Portfolio](https://portfolio-ts-nine.vercel.app/)** | Présentation de mon parcours, projets interactifs et animations accessibles | Next.js · TypeScript · Tailwind CSS · Framer Motion |
+| **Camarade** | MVP de plateforme étudiante, parcours utilisateur et logique full stack | ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=3ECF8E) |
+| **Smart Hire** | Questionnaires IA et visualisation des évaluations pour le recrutement | ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6) ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=009688) |
+| **Exploree** | Découverte de restaurants et d’activités à travers un flux de vidéos courtes | ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-0F172A?style=flat-square&logo=expo&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248) |
+
+</details>
+
+---
 
 ## Stack technique
 
@@ -73,33 +167,61 @@ Une API volontairement simple pour illustrer une chaîne de livraison complète 
 
 | Domaine | Technologies |
 | :--- | :--- |
-| **Frontend** | TypeScript · JavaScript · React · Next.js · Tailwind CSS |
-| **Backend & API** | Python · FastAPI · Node.js · Java · API REST · SSO / RBAC |
-| **Données & IA** | MySQL · MariaDB · SQL Server · MongoDB · DuckDB · Polars · Pandas · Ollama · Mistral |
-| **Qualité** | Vitest · Playwright · Jest · ESLint · Revue de code |
-| **DevOps** | Docker · GitHub Actions · Linux · Nginx · Bash · Windows Server |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4) |
+| **Backend & API** | ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=009688) ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=white) ![REST API](https://img.shields.io/badge/API_REST-0F172A?style=flat-square&logo=openapiinitiative&logoColor=6BA539) ![SSO RBAC](https://img.shields.io/badge/SSO_/_RBAC-0F172A?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white) |
+| **Données & IA** | ![Ollama](https://img.shields.io/badge/Ollama-0F172A?style=flat-square&logo=ollama&logoColor=white) ![Mistral](https://img.shields.io/badge/Mistral_AI-0F172A?style=flat-square&logo=mistralai&logoColor=FA520F) ![DuckDB](https://img.shields.io/badge/DuckDB-0F172A?style=flat-square&logo=duckdb&logoColor=FFF000) ![Polars](https://img.shields.io/badge/Polars-0F172A?style=flat-square&logo=polars&logoColor=CD792C) ![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=150458) ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1) ![MariaDB](https://img.shields.io/badge/MariaDB-0F172A?style=flat-square&logo=mariadb&logoColor=003545) ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248) ![SQL Server](https://img.shields.io/badge/SQL_Server-0F172A?style=flat-square) |
+| **Qualité** | ![Vitest](https://img.shields.io/badge/Vitest-0F172A?style=flat-square&logo=vitest&logoColor=6E9F18) ![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=flat-square) ![Jest](https://img.shields.io/badge/Jest-0F172A?style=flat-square&logo=jest&logoColor=C21325) ![ESLint](https://img.shields.io/badge/ESLint-0F172A?style=flat-square&logo=eslint&logoColor=4B32C3) ![Code Review](https://img.shields.io/badge/Code_Review-0F172A?style=flat-square&logo=github&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=flat-square&logo=githubactions&logoColor=2088FF) ![Linux](https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=FCC624) ![Nginx](https://img.shields.io/badge/Nginx-0F172A?style=flat-square&logo=nginx&logoColor=009639) ![Bash](https://img.shields.io/badge/Bash-0F172A?style=flat-square&logo=gnubash&logoColor=4EAA25) ![Windows Server](https://img.shields.io/badge/Windows_Server-0F172A?style=flat-square) |
 
 ### Explorée sur projets
 
-Vue · React Native · Expo · Express · PostgreSQL · SQLite · Supabase · Socket.IO · Kubernetes · Kustomize · Terraform
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-0F172A?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-0F172A?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Socket.IO-0F172A?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Kustomize-0F172A?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kustomize" />
+  <img src="https://img.shields.io/badge/Terraform-0F172A?style=flat-square&logo=terraform&logoColor=844FBA" alt="Terraform" />
+</p>
 
-**En préparation :** certification AWS Cloud Practitioner.
+**En préparation :** Certification AWS Cloud Practitioner.
 
 <details>
 <summary><strong>Activité GitHub</strong></summary>
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nadjide&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Statistiques des contributions publiques GitHub de Nadjide" width="460" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nadjide&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&include_all_commits=true" alt="Statistiques des contributions publiques GitHub de Nadjide" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadjide&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Langages les plus utilisés" height="165" />
+</div>
 
 </details>
 
 ---
 
-## Construisons la suite
+<div align="center">
 
-Une équipe à rejoindre, une application à faire évoluer ou un projet à lancer ? Je suis ouvert aux opportunités et aux collaborations.
+### Construisons la suite
 
-**[Voir mon portfolio](https://portfolio-ts-nine.vercel.app/) · [Échanger sur LinkedIn](https://www.linkedin.com/in/nadjide-omar-b55a01212/) · [M’écrire](mailto:nadjide.omar@outlook.fr)**
+<samp>Une équipe à rejoindre, une application à faire évoluer ou un projet à lancer ?</samp><br />
+<sub>Je suis ouvert aux opportunités et aux collaborations.</sub>
+
+<br /><br />
+
+<a href="https://portfolio-ts-nine.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Voir mon portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/nadjide-omar-b55a01212/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Échanger sur LinkedIn" />
+</a>
+<a href="mailto:nadjide.omar@outlook.fr">
+  <img src="https://img.shields.io/badge/nadjide.omar@outlook.fr-38BDF8?style=flat-square&logo=minutemailer&logoColor=0F172A" alt="M'écrire par email" />
+</a>
+
+</div>
