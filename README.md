@@ -89,6 +89,24 @@ Mon fil conducteur : comprendre le besoin, construire une solution lisible et la
 
 <table width="100%">
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/Nadjide/sureau">Sureau</a></h3>
+      <p>
+        <sub>Gestion de parc informatique open source et auto-hébergée : inventaire du matériel, comptes et rôles, et atelier pour dessiner ses salles en 2D et 3D, avec chaque équipement retrouvé à son poste. Installable avec Docker ou Kubernetes, sous licence AGPL-3.0.</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Three.js-0F172A?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Playwright-0F172A?style=flat-square" alt="Playwright" />
+        <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nadjide/stajio">Stajio</a></h3>
       <p>
