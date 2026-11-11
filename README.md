@@ -21,7 +21,7 @@
     <a href="https://portfolio-ts-nine.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Voir mon portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/nadjide-omar-b55a01212/">
+    <a href="https://www.linkedin.com/in/nadjide-omar">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mon profil LinkedIn" />
     </a>
     <a href="mailto:nadjide.omar@outlook.fr">
@@ -30,6 +30,50 @@
   </p>
 
 </div>
+
+---
+
+## Projets à découvrir
+
+[![Sureau. Aperçu de l’atelier 3D et de l’inventaire partagé.](assets/projects/sureau.webp)](https://portfolio-ts-nine.vercel.app/?project=sureau)
+
+Une application libre et auto-hébergée pour gérer un parc informatique et retrouver chaque équipement sur le plan 2D ou 3D des locaux.
+
+**Java · Spring Boot · React · Three.js · PostgreSQL · Docker Compose**\
+[Vidéo de Sureau](https://portfolio-ts-nine.vercel.app/?project=sureau) · [Code source](https://github.com/Nadjide/sureau)
+
+[![Stajio. Aperçu du tableau de bord et de l’éditeur de rapport.](assets/projects/stajio.webp)](https://portfolio-ts-nine.vercel.app/?project=stajio)
+
+Un journal de stage et d’alternance pour suivre ses compétences et préparer un rapport révisable. L’IA locale via Ollama reste facultative.
+
+**Next.js · TypeScript · SQLite · Ollama · Docker Compose**\
+[Vidéo de Stajio](https://portfolio-ts-nine.vercel.app/?project=stajio) · [Code source](https://github.com/Nadjide/stajio)
+
+[![DevOps Playground. Aperçu du pipeline et du rollback validé dans Docker.](assets/projects/devops-playground.webp)](https://portfolio-ts-nine.vercel.app/?project=devops-playground)
+
+Un laboratoire interactif pour diagnostiquer une API, exécuter un pipeline et revenir à une version saine, en simulation ou avec Docker en local.
+
+**React · Node.js · Docker · GitHub Actions**\
+[Fiche et captures](https://portfolio-ts-nine.vercel.app/?project=devops-playground) · [Code source](https://github.com/Nadjide/devops-playground)
+
+### Pokito
+
+Backend de jeu multijoueur en temps réel. Le serveur autoritaire gère la logique de partie et s’appuie sur Supabase pour la persistance.
+
+**Node.js · Socket.IO · Supabase · Docker**\
+[Fiche de Pokito](https://portfolio-ts-nine.vercel.app/?project=pokito) · [Code de l’API](https://github.com/Pokito-ynov/api-pokito)
+
+<details>
+<summary><strong>Autres explorations (Mobile, IA & MVP)</strong></summary>
+<br />
+
+| Projet | Ce que j’y explore | Technologies |
+| :--- | :--- | :--- |
+| **Camarade** | MVP de plateforme étudiante, parcours utilisateur et logique full stack | ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=3ECF8E) |
+| **Smart Hire** | Questionnaires IA et visualisation des évaluations pour le recrutement | ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6) ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=009688) |
+| **Exploree** | Découverte de restaurants et d’activités à travers un flux de vidéos courtes | ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-0F172A?style=flat-square&logo=expo&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248) |
+
+</details>
 
 ---
 
@@ -82,100 +126,6 @@ Mon fil conducteur : comprendre le besoin, construire une solution lisible et la
     </td>
   </tr>
 </table>
-
----
-
-## Projets à découvrir
-
-<table width="100%">
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/Nadjide/sureau">Sureau</a></h3>
-      <p>
-        <sub>Gestion de parc informatique open source et auto-hébergée : inventaire du matériel, comptes et rôles, et atelier pour dessiner ses salles en 2D et 3D, avec chaque équipement retrouvé à son poste. Installable avec Docker ou Kubernetes, sous licence AGPL-3.0.</sub>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Three.js-0F172A?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-        <img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Playwright-0F172A?style=flat-square" alt="Playwright" />
-        <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-        <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Nadjide/stajio">Stajio</a></h3>
-      <p>
-        <sub>Journal d’alternance qui transforme l’expérience en rapports, préparations de soutenance et points CV. Application full stack avec authentification, exports PDF et IA locale.</sub>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
-        <img src="https://img.shields.io/badge/Ollama-0F172A?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-        <img src="https://img.shields.io/badge/Vitest-0F172A?style=flat-square&logo=vitest&logoColor=6E9F18" alt="Vitest" />
-        <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-        <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Pokito-ynov/api-pokito">Pokito</a></h3>
-      <p>
-        <sub>Jeu multijoueur en temps réel : architecture à serveur autoritaire, logique de partie côté API et persistance des données durables.</sub>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Socket.IO-0F172A?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-        <img src="https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-        <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Nadjide/devops-playground">DevOps Playground</a></h3>
-      <p>
-        <sub>API volontairement simple pour illustrer une chaîne de livraison complète : tests automatisés, construction d’image Docker et contrôles de santé.</sub>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/Jest-0F172A?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
-        <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-0F172A?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://portfolio-ts-nine.vercel.app/">Portfolio</a></h3>
-      <p>
-        <sub>Présentation de mon parcours, projets interactifs et interface web axée sur la performance et les animations accessibles.</sub>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0F172A?style=flat-square&logo=framer&logoColor=0055FF" alt="Framer Motion" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>Autres explorations (Mobile, IA & MVP)</strong></summary>
-<br />
-
-| Projet | Ce que j’y explore | Technologies |
-| :--- | :--- | :--- |
-| **Camarade** | MVP de plateforme étudiante, parcours utilisateur et logique full stack | ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=3ECF8E) |
-| **Smart Hire** | Questionnaires IA et visualisation des évaluations pour le recrutement | ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6) ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=009688) |
-| **Exploree** | Découverte de restaurants et d’activités à travers un flux de vidéos courtes | ![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-0F172A?style=flat-square&logo=expo&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248) |
-
-</details>
 
 ---
 
@@ -235,7 +185,7 @@ Mon fil conducteur : comprendre le besoin, construire une solution lisible et la
 <a href="https://portfolio-ts-nine.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Voir mon portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/nadjide-omar-b55a01212/">
+<a href="https://www.linkedin.com/in/nadjide-omar">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Échanger sur LinkedIn" />
 </a>
 <a href="mailto:nadjide.omar@outlook.fr">
