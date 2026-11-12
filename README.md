@@ -27,3 +27,13 @@
   <a href="https://github.com/Nadjide/stajio">Stajio</a> ·
   <a href="https://github.com/Nadjide/devops-playground">DevOps Playground</a></sub>
 </p>
+
+<h2 align="center">Stack technique</h2>
+
+<p align="center">
+  <img src="assets/stack/javascript.webp" width="238" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Three.js et Node.js">
+  <img src="assets/stack/backend-donnees.webp" width="238" alt="Java, Spring Boot, Python, FastAPI, PostgreSQL, MariaDB et Ollama">
+  <img src="assets/stack/devops-qualite.webp" width="238" alt="Docker, GitHub Actions, Linux, Nginx, Kubernetes, Vitest et Playwright">
+</p>
+
+<!-- Icônes issues de https://github.com/LelouchFR/skill-icons/tree/1c213fac65db5decb58aaa7f41db28effcb26df4 (licence dans assets/stack/LICENSE.txt). -->
